@@ -9,3 +9,4 @@ Git is a distributed version control system.
 Git is free software.
 
 Modify readme again.
+Git tracks changes.
